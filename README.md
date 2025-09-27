@@ -13,6 +13,10 @@ This project demonstrates a data-driven approach to segment customers based on l
 - Data includes 30,000+ customers with features such as demographics, account information, and financial metrics.  
 - Each customer is labeled with loan outcomes (default / non-default).
 
+## Notebook
+- datadna.ipynb: contains the analysis and ML
+- thompson_sampling.ipynb: contains the code for prescriptive thompson sampling
+
 ## Results
 - Segmented customers into meaningful clusters based on risk and behavior.  
 - Estimated default probabilities per customer to inform risk strategies.  

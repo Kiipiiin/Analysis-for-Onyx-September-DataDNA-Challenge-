@@ -15,7 +15,7 @@ This project demonstrates a data-driven approach to segment customers based on l
 
 ## Notebook
 - datadna.ipynb: contains the analysis and ML
-- thompson_sampling.ipynb: contains the code for prescriptive thompson sampling
+- thompson_sampling.ipynb: contains the code for prescriptive thompson sampling. This part isn't needed for DataDNA, just for self exploration and learning.
 
 ## Results
 - Segmented customers into meaningful clusters based on risk and behavior.  
